@@ -143,7 +143,7 @@ At the top right of the github repository, click on the "Fork" button. This will
 #### Submitting a pull request :
 - Go back to your fork on GitHub, GitHub noticed that you pushed a new topic branch up and presents you with a big green button to check out your changes and open a Pull Request to the original project.
 - Click that green button and give a title and description of the Pull Request.
-- Put a good description that helps the original project owner what you were trying to do.
+L- Put a good description that helps the original project owner what you were trying to do.
 - Create a pull request (click on "Create pull request").
 
 #### Specific contributions
@@ -154,7 +154,7 @@ At the top right of the github repository, click on the "Fork" button. This will
 
 ### Support
 
-You can contact us through the mail adress [cno@beopenit.com](mailto:cno@beopenit.com) (we answer in a matter of hours)
+You can contact us through the mail adress [hello@gocno.io](mailto:hello@gocno.io)we answer in a matter of hours)
 
 You can directly send a message in CNO's slack [here](https://gocno.slack.com)
 
