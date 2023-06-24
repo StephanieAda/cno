@@ -103,7 +103,7 @@ Learn how to ensure an entire lifecycle of Kubernetes security for all your clus
 
 CNO Secure helps you scan your infrastructure and ensure your clusters are compliant with standards like CIS, PCI DSS, NIST, MITRE ATTACK…
 
-[More about CNO Secure >](https://docs.gocno.io/concepts/cno-secure/) 
+[More about CNO Secure >](https://docs.gocno.io/concepts/members/) 
 
 ## Getting Started
 
