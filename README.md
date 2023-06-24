@@ -1,4 +1,4 @@
- # CNO<br/>Cloud Native Onboarding
+# CNO<br/>Cloud Native Onboarding
 
 **CNO is your Operations Center for Kubernetes &ndash; a single management platform for Admins in a hybrid / multi-cloud ecosystem; a common experience for multiple Ops & Dev teams.**
 
@@ -77,7 +77,7 @@ Hide the complexity of multi-cloud or multi-cluster Kubernetes infrastructure ma
 CNO Hub centralizes management, governance, and monitoring of your Kubernetes clusters on any cloud from a single Console. 
 May it be public or on-premise.
 
-[More about CNO Hub >](https://docs.gocno.io/concepts/cno-hub/)
+[More about CNO Hub >](https://docs.gocno.io/concepts/clusters/)
 
 ### CNO Projects(Onboard)
 
@@ -87,7 +87,7 @@ CNO Onboard is the platform's flagship feature, providing a turnkey framework fo
 
 How does it work? Each Project Owner takes control of their projects by choosing their work environment and setting up teams with specific fields of action according to the professions.
 
-[More about CNO Onboard >](https://docs.gocno.io/concepts/cno-onboard/) 
+[More about CNO Onboard >](https://docs.gocno.io/concepts/projects/) 
 
 ### CNO Deploy
 
@@ -118,6 +118,7 @@ You can refer to our documentation to try CNO:
 [Tutorial: Onboarding Projects and Teams >](https://docs.gocno.io/tutorials/onboard-project-team/)
 
 [Tutorial: Continuous Deployments with CNO >](https://docs.gocno.io/tutorials/continuous-deployment/)
+
 
 ## Support & Contributions Guidelines
 
