@@ -6,7 +6,7 @@ CNO core components run on Kubernetes, with remote agents in each of the other K
 
 Through CNO, you can take advantage of the Kubernetes ecosystem and set up the best Onboarding Experience for your Teams. 
 
--   Website: [gocno.io](http://www.gocno.io)
+-   Website: [gocno.io](http://www.gocno.io
 -   Full Documentation : [https://docs.gocno.io/](https://docs.gocno.io/about/what-is-cno)
 -   Community : [CNO's slack](https://gocno.slack.com)
 
